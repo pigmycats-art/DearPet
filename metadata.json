@@ -1,0 +1,8 @@
+{
+  "name": "PawPals: Premium Pet Care Platform",
+  "description": "An all-in-one pet care ecosystem featuring facility maps, health tracking, insurance management, and community meetups, designed with a clean Apple-inspired lavender aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
